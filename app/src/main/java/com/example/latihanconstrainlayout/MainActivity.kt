@@ -1,5 +1,6 @@
 package com.example.latihanconstrainlayout
 
+import android.graphics.Paint
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity

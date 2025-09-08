@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="150dp"
+    android:viewportWidth="360"
+    android:viewportHeight="150">
+
+    <!-- Wave utama (belakang, full lebar) -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M0,80 C90,140 270,20 360,80 L360,0 L0,0 Z" />
+
+    <!-- Wave kedua (depan, lebih kecil, transparan, tidak full lebar) -->
+    <path
+        android:fillColor="#402196F3"
+        android:pathData="M60,100 C140,150 220,50 300,100 L300,0 L60,0 Z"/>
+</vector>
